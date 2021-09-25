@@ -14,13 +14,13 @@ I enjoy playing video games, watching anime, video editing, and basketball. Over
 
 ### Video Games
 The games I am currently playing are:
-*Odin Sphere*
+*Odin Sphere*\
 ![image](https://upload.wikimedia.org/wikipedia/en/0/00/Odinssphere.png)
 
-*Let it Die*
+*Let it Die*\
 ![image](https://www.gamespot.com/a/uploads/scale_medium/1197/11970954/2567935-002.jpg)
 
-*Demon's Souls* (PS3)
+*Demon's Souls* (PS3)\
 ![image](https://www.samanthalienhard.com/wp-content/uploads/2019/09/Demons-Souls-cover-art.jpg)
 
 My top 5 favorite video games are:
