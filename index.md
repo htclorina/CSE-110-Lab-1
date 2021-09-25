@@ -1,7 +1,7 @@
 # Hugs' Home
 ## About Me
 I was first introduced to computer science in my sophomore year in high school, and have been interested in the field ever since.
-I have experience programming with `Java, C++, Python, and C`.
+I have experience programming with `Java`, `C++`, `Python`, and `C`.
 I am a third year undergraduate student at UCSD, majoring in Computer Science.
 I am a student in Professor Powell's CSE 110 class.
 In this class, I hope to:
@@ -12,7 +12,7 @@ In this class, I hope to:
 ## Hobbies and Interests
 I enjoy playing video games, watching anime, video editing, and basketball. Over the pandemic, I dabbled in music making through Famitracker.
 
-###### Video Games
+### Video Games
 The games I am currently playing are:
 *Odin Sphere*
 ![image](https://upload.wikimedia.org/wikipedia/en/0/00/Odinssphere.png)
@@ -35,24 +35,23 @@ My top 5 favorite video games are:
 5. Earthbound
 > Look at the camera... Ready... Say, "fuzzy pickles."
 
-###### Anime
-The anime series I am currently watching are
--Higurashi When They Cry
--Megalobox
--Demon Slayer
+### Anime
+The anime series I am currently watching are:
+- Higurashi When They Cry
+- Megalobox
+- Demon Slayer
 
 My favorite anime are:
 1. FLCL
 2. Serial Experiments Lain
 3. Mob Psycho 100
 
-###### Video Making
+### Video Making
 My first video was for a science project in middle school, since then I began creating skits and small projects for fun. I also enjoy video editing, from creating memes to helping with stream highlights.
 
-###### Basketball
-I am a very avid Lakers fan and have been following the team since the 04-05 season. It was during this season where we saw Kobe Bryant score [81 points](https://www.youtube.com/watch?v=FeXZY4eVLlo&ab_channel=NBA) against the Toronto Raptors. I enjoy both watching basketball and casually playing the sport.
-
-###### Music
+### Basketball
+I enjoy both watching basketball and casually playing the sport. I am a very avid Lakers fan and have been following the team since the 04-05 season. It was during this season where we saw Kobe Bryant score [81 points](https://www.youtube.com/watch?v=FeXZY4eVLlo&ab_channel=NBA) against the Toronto Raptors.
+### Music
 I very much enjoy listening to classic chiptune tracks, and over the pandemic, I wanted to try to create some of my own. Inspired by [Tim Folin](https://www.youtube.com/watch?v=BGNSHNf-nlU&list=PLIeoKuc27VXUseoN9-6VGIQKps457EkpQ&index=5&ab_channel=explod2A03), I downloaded [FamiTracker](http://famitracker.com/) in an attempt to compose my own tracks despite **not** having any knowledge of music composition.
 
 
