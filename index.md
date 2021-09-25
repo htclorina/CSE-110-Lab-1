@@ -53,7 +53,6 @@ My first video was for a science project in middle school, since then I began cr
 I enjoy both watching basketball and casually playing the sport. I am a very avid Lakers fan and have been following the team since the 04-05 season. It was during this season where we saw Kobe Bryant score [81 points](https://www.youtube.com/watch?v=FeXZY4eVLlo&ab_channel=NBA) against the Toronto Raptors.
 ### Music
 I very much enjoy listening to classic chiptune tracks, and over the pandemic, I wanted to try to create some of my own. Inspired by [Tim Folin](https://www.youtube.com/watch?v=BGNSHNf-nlU&list=PLIeoKuc27VXUseoN9-6VGIQKps457EkpQ&index=5&ab_channel=explod2A03), I downloaded [FamiTracker](http://famitracker.com/) in an attempt to compose my own tracks despite **not** having any knowledge of music composition.
-\
 
 
 
